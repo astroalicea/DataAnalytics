@@ -1,0 +1,36 @@
+﻿ID,Start time,Completion time,Time to complete,Email,Name,Last modified time,How often do you visit us?,What would you rank our hospitality.,How long do you wait for your order,What is your favorite order?,What is your favorite beverage?,When is your birthday?
+1,04/08/2026 9:49:20,04/08/2026 9:51:25,02:05,anonymous,,,Weekly,5,5min-10min,California Roll or Shrimp Tempura,Shirley Temple with Sprite,8/1/1997
+2,04/08/2026 12:56:01,04/08/2026 12:57:12,01:11,anonymous,,,Never,4,15min-20min,Salmon nigiri ,Water,4/20/1998
+3,04/08/2026 13:33:00,04/08/2026 13:34:19,01:19,anonymous,,,Weekly,5,15min-20min,"inara, tempura shrimp roll, salmon avocado roll",jasmine tea,12/30/1981
+4,04/08/2026 13:47:43,04/08/2026 13:48:13,00:30,anonymous,,,Weekly,5,+20min,The dragon roll,Pepsi ,4/10/2026
+5,04/08/2026 14:42:24,04/08/2026 14:42:49,00:25,anonymous,,,Weekly,1,+20min,none,beer,4/8/2026
+6,04/08/2026 14:46:41,04/08/2026 14:50:15,03:34,anonymous,,,Weekly,4,5min-10min,Carbonara Spaghetti,Coke,1/16/1996
+7,04/09/2026 11:38:23,04/09/2026 11:39:21,00:58,anonymous,,,Weekly,5,5min-10min,everything,soju,2/27/1996
+8,04/09/2026 11:32:52,04/09/2026 11:39:57,07:05,anonymous,,,Daily,5,10min-15min,My favorite order is the jerk shrimp tempura rolls.,Strawberry Sake,1/1/2026
+9,04/09/2026 13:18:18,04/09/2026 13:19:18,01:00,anonymous,,,Monthly,5,1min-5min,California roll,Diet coke ,9/10/1998
+,,,02:01,,,,9,4.3,7,,,4/3/2005
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,Row Labels,Sum of What would you rank our hospitality.,,,,,
+,,,,,,1,5,,,,,
+,,,,,,anonymous,5,,,,,
+,,,,,,2,4,,,,,
+,,,,,,anonymous,4,,,,,
+,,,,,,3,5,,,,,
+,,,,,,anonymous,5,,,,,
+,,,,,,4,5,,,,,
+,,,,,,anonymous,5,,,,,
+,,,,,,5,1,,,,,
+,,,,,,anonymous,1,,,,,
+,,,,,,6,4,,,,,
+,,,,,,anonymous,4,,,,,
+,,,,,,7,5,,,,,
+,,,,,,anonymous,5,,,,,
+,,,,,,8,5,,,,,
+,,,,,,anonymous,5,,,,,
+,,,,,,9,5,,,,,
+,,,,,,anonymous,5,,,,,
+,,,,,,Grand Total,39,,,,,
