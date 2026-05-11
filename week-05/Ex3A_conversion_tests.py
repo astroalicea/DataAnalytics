@@ -7,12 +7,13 @@ a = "   101.1"
 b = '55'
 c = "402 Stevens"
 d = 'Number 5   '
-# 3
+#3
 print(a, type(a))
 print(b, type(b))
 print(c, type(c))
 print(d, type(d))
 
+# 4
 # print(int(a)) ValueError: invalid internal
 print(int(b))
 # print(int(c)) ValueError: invalid internal
