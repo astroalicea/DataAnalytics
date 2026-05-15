@@ -13,7 +13,6 @@ for i in range(4):
 last_chunk = f.readlines()
 
 f.close()
-
 print(f"First 50 characters: {first_50}")
 print(f"Next four lines, as list by line: {next_four}")
 print(f"Next 100 characters, as list by line, rounded up to complete lines {last_chunk}")
